@@ -3,6 +3,8 @@ A fully responsive Swiggy Clone web application built with React.js, featuring r
 This project uses Swiggy’s public APIs to fetch live restaurant menus, item details, and recommendations.
 
 🚀 Features
+
+
 ✔ 1. Live Restaurant Menu
 Fetches real data using Swiggy’s menu API
 Displays restaurant info (name, rating, cuisines, delivery time)
